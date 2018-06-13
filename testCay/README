@@ -1,4 +1,4 @@
-The code in testCay folder is a potential new objectdraw.  I would like to have some mouse event capability in the 
-client file.  This would be like an onMouseClick like in objectdraw and like objectdraw, have the actionListener stuff
+The code in the testCay folder is a potential new objectdraw.  I would like to have some mouse event capability in the 
+client file.  This would be like an onMouseClick just like in objectdraw and like objectdraw, have the actionListener stuff
 hidden from the client.  I would also like to have a keystroke capability like in Unity.  Ideally, the client would be
-able to file in the body of a method that would execute when a certain key is pressed.
+able to fill in the body of a method that would execute when a certain key is pressed.
