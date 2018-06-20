@@ -4,9 +4,9 @@ Make a frame
 <br>
 Make a Color
 <br>
-Make a String
-<br>
 Make a Rectangle
+<br>
+Keyboard Input (& Output)
 <br>
 Make a Rectangle in different Locations
 <br>
