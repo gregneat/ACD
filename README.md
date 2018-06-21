@@ -12,11 +12,17 @@ Make a Rectangle in different Locations
 <br>
 Translate the Rectangle with a Click
 <br>
-Display the Rectangle's x,y coordinates
-<br>
 Translate the Rectangle with no Click
 <br>
-Recycle the Rectangle
+Display a name on the Rectangle
+<br>
+Translate the Rectangle with name
+<br>
+Display the Rectangle's x,y coordinates
+<br>
+Translate a Rectangle with name and location
+<br>
+Recycle a labeled moving Rectangle
 <br>
 Translate the Rectangle to cover whole frame (mow lawn)
 <br>
