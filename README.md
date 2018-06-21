@@ -24,6 +24,8 @@ Translate a Rectangle with name and location
 <br>
 Recycle a labeled moving Rectangle
 <br>
+Recycle multiple labeled moving Rectangles
+<br>
 Translate the Rectangle to cover whole frame (mow lawn)
 <br>
 Make multiple Rectangles that each translates one time across frame
