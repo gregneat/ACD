@@ -32,11 +32,11 @@ Translate an instance of Car class
 <br>
 Recycle an instance of Car class
 <br>
-refine Car class w name
+Refine Car class w name
 <br>
-refine Car class w location
+Refine Car class w location
 <br>
-refine Car class w Color 
+Refine Car class w Color 
 <br>
 Make multiple recycling Car instances
 <br>
