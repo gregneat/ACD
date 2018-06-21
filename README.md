@@ -26,12 +26,20 @@ Recycle a labeled moving Rectangle
 <br>
 Recycle multiple labeled moving Rectangles
 <br>
+Make your own Car class
+<br>
+Translate an instance of Car class
+<br>
+Recycle an instance of Car class
+<br>
+refine Car class w name
+<br>
+refine Car class w location
+<br>
+refine Car class w Color 
+<br>
+Make multiple recycling Car instances
+<br>
 Translate the Rectangle to cover whole frame (mow lawn)
-<br>
-Make multiple Rectangles that each translates one time across frame
-<br>
-Make your own Car with the Rectangle and Ellipse classes
-<br>
-Translate your Car
 <br>
 
