@@ -40,6 +40,8 @@ Refine Car class w Color
 <br>
 Make multiple recycling Car instances
 <br>
+Make 100 recycling Car instances
+<br>
 Translate/Recycle a Car instance to cover whole frame (mow lawn)
 <br>
 
