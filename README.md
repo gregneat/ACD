@@ -8,7 +8,7 @@ Make a Rectangle
 <br>
 Keyboard Input (& Output)
 <br>
-Make a Rectangle w your homemade Color
+Make a random colored Rectangle
 <br>
 Make a few instances of the Rectangle class in different Locations
 <br>
