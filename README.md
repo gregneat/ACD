@@ -8,6 +8,8 @@ Make a Rectangle
 <br>
 Keyboard Input (& Output)
 <br>
+Make a Rectangle w your homemade Color
+<br>
 Make a Rectangle in different Locations
 <br>
 Translate the Rectangle with a Click
