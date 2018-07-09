@@ -10,7 +10,7 @@ Keyboard Input (& Output)
 <br>
 Make a Rectangle w your homemade Color
 <br>
-Make a Rectangle in different Locations
+Make a few instances of the Rectangle class in different Locations
 <br>
 Translate the Rectangle with a Click
 <br>
