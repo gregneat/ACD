@@ -40,6 +40,8 @@ Refine Car class w location
 <br>
 Refine Car class w Color 
 <br>
+Refine Car class w speed 
+<br>
 Make multiple recycling Car instances
 <br>
 Make 100 recycling Car instances
