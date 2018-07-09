@@ -6,13 +6,13 @@ Make a Color
 <br>
 Make a Rectangle
 <br>
-Keyboard Input (& Output)
-<br>
 Make a random colored Rectangle
 <br>
 Make a few instances of the Rectangle class in different Locations
 <br>
 Translate the Rectangle with a Click
+<br>
+Keyboard Input (& Output)
 <br>
 Translate the Rectangle with no Click
 <br>
