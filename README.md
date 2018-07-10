@@ -55,4 +55,6 @@ Make 100 recycling Car instances
 Make 100 recycling Car instances on separate roads
 <br>
 Determine the fastest Car from the 100 Car objects
+<br>
+Determine the average speed of all the Car objects
 
