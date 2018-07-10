@@ -57,4 +57,9 @@ Make 100 recycling Car instances on separate roads
 Determine the fastest Car from the 100 Car objects
 <br>
 Determine the average speed of all the Car objects
-
+<br>
+Refine Rectangle class w a contains method
+<br>
+Refine Car class w a contains method
+<br> 
+Refine Car class w a changeSpeed method
