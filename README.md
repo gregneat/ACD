@@ -26,6 +26,18 @@ Translate a Rectangle with name and location
 <br>
 Recycle a labeled moving Rectangle
 <br>
+Translate a labeled moving Rectangle w a trailing selectable character
+<br>
+Translate a Rectangle w a trailing character that is readable
+<br>
+Translate a Rectangle w a trailing word that is readable
+<br>
+Translate a Rectangle w a trailing word character by character
+<br>
+Output the width of each character of a selected word
+<br>
+Determine the character from a word w the max width
+<br>
 Recycle multiple labeled moving Rectangles
 <br>
 Make your own Car class
