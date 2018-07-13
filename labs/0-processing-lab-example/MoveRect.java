@@ -13,6 +13,7 @@ public class MoveRect extends PApplet{
   // runs like a while loop
   public void draw() {
     rect(posX, 250, 50, 50);
+    posX++;
   }
 
   public static void main(String[] args){
@@ -23,7 +24,4 @@ public class MoveRect extends PApplet{
     // run the sketch
 		PApplet.runSketch(processingArgs, firstApplet);
 	}
-
-
-
 }
