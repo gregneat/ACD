@@ -10,7 +10,7 @@ This directory serves as an example of what a possible lab structure would look 
 
 ###### 1. Code is less abrasive at first glance
 
-  For newcomers to programming, the apparent complexity of the code they see is a factor worth considering. At least from what I can see, it looks like Processing wins out over JFrame in this regard. For instance, refer to the difference between the "rect move no click" file versus "0-processing-lab-example". Both do the same thing - move a rectangle across the same thing - but the Processing file does it in about half the lines of code with less foreign concepts from the respective framework.
+  For newcomers to programming, the apparent complexity of the code they see is a factor worth considering. At least from what I can see, it looks like Processing wins out over JFrame in this regard. For instance, refer to the difference between the "rect move no click" file versus "0-processing-lab-example". Both do the same thing - move a rectangle across the screen - but the Processing file does it in about half the lines of code with less foreign concepts from the respective framework.
 
 ###### 2. Plenty of documentation and community support
 
@@ -52,7 +52,7 @@ This directory serves as an example of what a possible lab structure would look 
   }
   ```
 
-  This can be initialized in another class with
+  This can be instantiated in another class with
 
   ```java
   Ball myBall = new Ball(this); //where this is the PApplet
@@ -60,6 +60,13 @@ This directory serves as an example of what a possible lab structure would look 
 
   This could be helpful in bringing to life the idea of AP making the classes, and buffet using them.
 
+### Test Driven Development
+
+I might write more about this, but just as a preview, codecademy has a [cool article](https://news.codecademy.com/test-driven-development/) about Test Driven Development- what it is, why its used, and more. Essentially, pretty much the entire industry uses test driven development when they write code- which involves writing tests that fail, and then writing the actual code which will make these tests pass.
+
+I feel that implementing this in some way in the course curriculum not only introduces people to a concept that they will 100% run into if they continue into the field, but is also incredibly useful in the development process. It modifies how you think about the code you're trying to write, forcing you to wrap your head around *how* you're going to write your code as apposed to jumping into an empty java file and fiddling around.
+
+The "1-testing-lab-example" has relevant files, and will contain an example of how testing could be used in a lab.
 
 ### Conclusion
 
