@@ -47,8 +47,6 @@ Select a random word from file
 Output random word to graphics window
 <br>
 Typing Game - one word, right, wrong
-<br> 
-Display text character by character
 <br>
 Enter and display text character by character
 <br>
