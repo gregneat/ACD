@@ -38,7 +38,7 @@ Output the width of each character of a selected word
 <br>
 Determine the character from a word w the max width
 <br>
-Typing Game - see whole phrase, type whole phraze - right, wrong
+Typing Game - see whole phrase, type whole phrase - right, wrong
 <br>
 Read from a file
 <br>
