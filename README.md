@@ -38,6 +38,20 @@ Output the width of each character of a selected word
 <br>
 Determine the character from a word w the max width
 <br>
+Typing Game - see whole phrase, type whole phraze - right, wrong
+<br>
+Read from a file
+<br>
+Select a random word from file
+<br>
+Output random word to graphics window
+<br>
+Typing Game - one word, right, wrong
+<br> 
+Display text character by character
+<br>
+Enter and display text character by character
+<br>
 Recycle multiple labeled moving Rectangles
 <br>
 Make your own Car class
