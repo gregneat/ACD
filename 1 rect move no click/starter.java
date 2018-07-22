@@ -32,7 +32,6 @@ public class starter extends JPanel implements Runnable
 		Graphics2D g2 = (Graphics2D)g;
 		g2.setColor(Color.BLUE);
 		g2.fill(rect);
-		
 		//regualr graphics for strings
 		g.setColor(Color.BLACK);
 		g.drawString(Integer.toString(count),(int)rect.getX(),30);
