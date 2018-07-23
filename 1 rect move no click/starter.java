@@ -41,7 +41,7 @@ public class starter extends JPanel implements Runnable
 	{
 		while(true)
 		{
-			//incrementing rectangle location
+			//incrementing rectangle location each frame
 			count = count+1;
 			rect.setFrame(count,40,50,50);
 			repaint();//calls paintComponent method
