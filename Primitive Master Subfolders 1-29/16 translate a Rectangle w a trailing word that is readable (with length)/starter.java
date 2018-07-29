@@ -9,7 +9,7 @@ public class starter extends JPanel implements Runnable
 	static JFrame frame;
 	
 	Rectangle2D.Double rect;
-	int startPos=0;
+	int startPos=50;
 	int xCoord=startPos;
 	String word;
 	FontMetrics metrics;
